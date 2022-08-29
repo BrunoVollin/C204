@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="0" errors="0" time="2.327">
+  <testsuite name="Testando a classe ScreenInfo" errors="0" failures="0" skipped="0" timestamp="2022-08-29T13:13:03" time="2.11" tests="6">
+    <testcase classname="Testando a classe ScreenInfo Deve retornar seguindo o padrão HTML" name="Testando a classe ScreenInfo Deve retornar seguindo o padrão HTML" time="0.003">
+    </testcase>
+    <testcase classname="Testando a classe ScreenInfo Deve ser englobado por uma tag div" name="Testando a classe ScreenInfo Deve ser englobado por uma tag div" time="0.001">
+    </testcase>
+    <testcase classname="Testando a classe ScreenInfo Deve Conter o padrão de horas" name="Testando a classe ScreenInfo Deve Conter o padrão de horas" time="0">
+    </testcase>
+    <testcase classname="Testando a classe ScreenInfo Não deve haver quebra de linhas" name="Testando a classe ScreenInfo Não deve haver quebra de linhas" time="0">
+    </testcase>
+    <testcase classname="Testando a classe ScreenInfo Não deve conter numeros dentro da tag h1" name="Testando a classe ScreenInfo Não deve conter numeros dentro da tag h1" time="0.026">
+    </testcase>
+    <testcase classname="Testando a classe ScreenInfo Não deve conter texto dentro da tag h2 e h3" name="Testando a classe ScreenInfo Não deve conter texto dentro da tag h2 e h3" time="0.006">
+    </testcase>
+  </testsuite>
+</testsuites>
